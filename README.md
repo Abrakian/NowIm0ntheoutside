@@ -3,7 +3,7 @@
 
 Heroku上部署，可更改传输协议mess和less，默认是-传输，部署时在 protocol选项框改成你喜欢的协议即可．
 
-https://dashboard.heroku.com/new?template=https://github.com/NAME/REPO)
+https://dashboard.heroku.com/new?template=https://github.com/Abrakian/NowIm0ntheoutside)
 
 #### 部署服务端
 
