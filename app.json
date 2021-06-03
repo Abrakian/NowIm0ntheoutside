@@ -1,5 +1,5 @@
 {
-    "name": "AAAheroku",
+    "name": "A-AAAheroku",
     "description": "deploy AAA to heroku",
     "keywords": ["AAA"],
     "env": {
